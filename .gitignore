@@ -34,3 +34,6 @@ lighthouse-report.html
 
 # cursor
 .cursor/
+
+# dev container
+devcontainer-lock.json
