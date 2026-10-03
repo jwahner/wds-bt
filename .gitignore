@@ -22,10 +22,10 @@ node_modules/
 vendor/
 
 # theme
-build/
-/blocks/
-!assets/blocks/
-inc/setup/font-preload.php
+# build/
+# /blocks/
+# !assets/blocks/
+# inc/setup/font-preload.php
 
 #tests
 pa11y-ci-report/
