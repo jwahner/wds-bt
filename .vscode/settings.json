@@ -15,5 +15,10 @@
 		"statusBar.background": "#f3713c",
 		"statusBar.foreground": "#fff"
 	},
-	"todo-tree.tree.scanMode": "workspace"
+	"todo-tree.tree.scanMode": "workspace",
+	"php.stubs": [
+		"pcntl",
+		"wordpress",
+		"*"
+	]
 }
