@@ -1,0 +1,17 @@
+.cursor/
+.devcontainer/
+.github/
+.vscode/
+node_modules/
+.cpanel.yml
+.rsync-exclude
+.editorconfig
+.env
+.eslintrc.json
+.gitignore
+.markdownlintignore
+.npmrc
+.prettierignore
+.prettierrc.js
+.stylelintignore
+package-lock.json
